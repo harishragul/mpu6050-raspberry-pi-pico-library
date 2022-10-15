@@ -1,6 +1,6 @@
 # imu.py MicroPython driver for the InvenSense inertial measurement units
 # This is the base class
-# Author Harish Ragul
+# Peter Hinch, Sebastian Plamauer
 
 from utime import sleep_ms
 from machine import I2C
