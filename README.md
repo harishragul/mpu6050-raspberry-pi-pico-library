@@ -15,4 +15,4 @@ IMU Library for MPU 6050 with Raspberry Pi Pico - Micropython
 - SDA - 1
 - SCL - 2
 
-From this library you can get the raw values of MPU6050 using imu.py and vector3d.py. The sample.py file demonstrate the process of getting raw values by uisng I2C communication. And you can measure the tilt angle of a system by using kalman.py as shown in angle.py.
+From this library you can get the raw values of MPU6050 using imu.py and vector3d.py. The sample.py file will demonstrate the process of getting raw values by uisng I2C communication. And you can measure the tilt angle of a system by using kalman.py as shown in angle.py.
