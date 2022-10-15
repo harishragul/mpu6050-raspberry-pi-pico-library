@@ -1,5 +1,5 @@
 #Kalman filter for IMU
-# Author Harish Ragul
+#Author Roche Christopher
 
 class KalmanAngle:
     def __init__(self):
