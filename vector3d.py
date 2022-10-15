@@ -1,5 +1,5 @@
 # vector3d.py 3D vector class for use in inertial measurement unit drivers
-# Author Harish Ragul
+# Author Peter Hinch, Sebastian Plamauer
 
 from utime import sleep_ms
 from math import sqrt, degrees, acos, atan2
